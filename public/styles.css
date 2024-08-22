@@ -1,0 +1,43 @@
+.contact-button{
+    margin-top: 2%;
+}
+
+.center{
+    text-align: center;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+.card{
+    background-color: rgba(59, 159, 12, 0.834);
+    margin: 20px;
+}
+.filter_form {
+    display: flex;
+    flex-direction: row; /* Arrange elements horizontally */
+    gap: 10px; /* Adjust the spacing between elements */
+}
+
+/* Style for select elements */
+select {
+    width: 100%; /* Take up full available width */
+    padding: 5px;
+}
+
+/* Optional: Style for labels */
+.filter_label {
+    width: 100px; /* Set a fixed label width for better alignment */
+    text-align: right;
+    padding-right: 10px;
+}
+.filter_container{
+    padding-top: 10px;
+    margin: 11px;;
+  margin-bottom: 25px;
+}
+
